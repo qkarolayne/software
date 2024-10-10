@@ -1,1 +1,1 @@
-print("Gerenciamento de Repositórios no GitHub")
+print("AVALIAÇÃO: 'Gerenciamento de Repositórios no GitHub'")
